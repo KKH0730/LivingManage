@@ -1,0 +1,15 @@
+{
+  "app_name" : "app name",
+  "sign_in_title" : "로그인",
+  "sign_in_id_placeholder" : "휴대폰 번호",
+  "sign_in_password_placeholder" : "비밀번호",
+  "confirm_all" : "확인",
+  "make_request_authorization" : "결재신청",
+  "make_request_send_money" : "송금신청",
+  "make_request_title_placeholder" : "제목을 입력하세요",
+  "make_request_content_placeholder" : "결재사항에 대한 내용을 작성하세요\n\n\n구매하고자 하는 물건의 정보를 공유하고 승인받아보세요!",
+  "on_air_authorization" : "진행중인 결재",
+  "off_air_authorization" : "완료된 결재",
+  "authorization_positive" : "결재 승인",
+  "authorization_negative" : "결재 거절"
+}

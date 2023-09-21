@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "921746623695",
+    "project_id": "livingmanage-5df73",
+    "storage_bucket": "livingmanage-5df73.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:921746623695:android:99ef275c5f74c456657bba",
+        "android_client_info": {
+          "package_name": "com.example.livingmanage"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzwKPAUiSBnGYSF3AyYaorBBMaKzv4q08"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
